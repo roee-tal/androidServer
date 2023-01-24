@@ -9,10 +9,10 @@ ISRAELA is a travel app where you can look for travels using filters, search, re
 that the app allows. You can be a full partner by register us and recommend trips.
 
 Includes:
-  Community trips
-  Contact the manager
-  Adding personal rating and opinion
-  Simple and intuitive UI
+ -Community trips
+ -Contact the manager
+ -Adding personal rating and opinion
+ -Simple and intuitive UI
 
 
 
